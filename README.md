@@ -1,5 +1,9 @@
 # SISTEMA TESTE EM VISUAL BASIC 6 - DESKTOP
-
+<br>
+<h1 align="center">
+    <img src="./FotosTela/Foto01ControleDeTarefas.png">
+</h1>
+<br>
 ## SOFTWARE DE KDS PARA A COZINHA DO RESTAURANTE
 O restaurante trabalha com atendimento de mesas. O garçom anota todos os pedidos das pessoas que estão na mesa “X” e “libera/envia” o pedido para as cozinhas (preparação dos pratos). Atualmente o restaurante possui diversas cozinhas para preparação dos pratos. Após a preparação dos pratos, o garçom serve as pessoas da mesa. 
 
