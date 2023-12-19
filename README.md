@@ -1,7 +1,7 @@
 # SISTEMA TESTE EM VISUAL BASIC 6 - DESKTOP
 <br>
 <h1 align="center">
-    <img src="./FotosTela/Foto01ControleDeTarefas.png">
+    <img src="./Images/Foto01telaSistema.png">
 </h1>
 <br>
 ## SOFTWARE DE KDS PARA A COZINHA DO RESTAURANTE
